@@ -376,5 +376,12 @@
     "sha512": "8b1f1ffcd1fdc8f71183f80fad469036a6bdfce169c5691484070259fc37d3eab7879e0658ef605e5609469a18c9c16f77f3123de1f0605153feff616985beb0",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.0.21",
     "dest-filename": "kotlin-stdlib-2.0.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo1.maven.org/maven2/io/netty/netty-bom/4.1.128.Final/netty-bom-4.1.128.Final.pom",
+    "sha512": "be6c1a60d7625c4f24609545e5151c47ee2e09027b3814a42cbc169e8d5e95b3318b02273ad648da30acca56c9bda22caceb176715f9ce52eb8f98b361045e42",
+    "dest": "./offline-repository/io/netty/netty-bom/4.1.128.Final",
+    "dest-filename": "netty-bom-4.1.128.Final.pom"
   }
 ]
