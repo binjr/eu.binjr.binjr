@@ -24,7 +24,7 @@ modules:
       - install -Dm644 distribution/bundlers/linux_fpk/icons/binjr_128.png /app/share/icons/hicolor/128x128/apps/eu.binjr.binjr.png
       - install -Dm644 distribution/bundlers/linux_fpk/icons/binjr_256.png /app/share/icons/hicolor/256x256/apps/eu.binjr.binjr.png
       - install -Dm644 distribution/bundlers/linux_fpk/icons/binjr_512.png /app/share/icons/hicolor/512x512/apps/eu.binjr.binjr.png
-      - install -Dm644 distribution/bundlers/linux_fpk/metadata/eu.binjr.binjr.metainfo.xml /app/share/metainfo/eu.binjr.binjr.metainfo.xml
+      - install -Dm644 build/tmp/expanded/eu.binjr.binjr.metainfo.xml /app/share/metainfo/eu.binjr.binjr.metainfo.xml
       - install -Dm644 distribution/bundlers/linux_fpk/metadata/eu.binjr.binjr.mime.xml /app/share/mime/packages/eu.binjr.binjr.mime.xml
       - install -Dm644 distribution/bundlers/linux_fpk/metadata/eu.binjr.binjr.desktop -t /app/share/applications
     sources:
