@@ -89,6 +89,14 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-avro/2.16.1/jackson-dataformat-avro-2.16.1.pom",
+    "sha512": "15aa321aeb3a16a2b84223655ee58c95aa222323360a518ce23eccf16a7f27087eb69db2cc02166cc225e7ca6193523222dbd4f5bf3b3ac4f6394552d66925f4",
+    "dest": "./offline-repository/com/fasterxml/jackson/dataformat/jackson-dataformat-avro/2.16.1",
+    "dest-filename": "jackson-dataformat-avro-2.16.1.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.16.1/jackson-base-2.16.1.pom",
     "sha512": "9e95b4b99f7d6e53f5fdbedbbf5a6c64252fc535d5e4a6d64e04b6b8e338d7cbc5ea0037979812e6a4b5225506b840409c2d4fa8962807c91063b977f75156f3",
     "dest": "./offline-repository/com/fasterxml/jackson/jackson-base/2.16.1",
@@ -165,6 +173,46 @@
     "sha512": "8a8edc2bcc60cf42e91ff28f78f58e3f43658d98ac686abed1e09fe67c5c1018e941e295ad5cf11698f77ae04dc0e85299cc9efaa985eb560cc1647bd2d59977",
     "dest": "./offline-repository/com/github/ben-manes/caffeine/caffeine/3.2.3",
     "dest-filename": "caffeine-3.2.3.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/github/hypfvieh/dbus-java-core/5.2.0/dbus-java-core-5.2.0.jar",
+    "sha512": "f774fb5c55312ef13f9c31d5115330d318ab93a484e8b52a06b16f60b6e226a67a1732d3bb565397ecd6fe94e8bbe19b16b04df37b68d6aaf466832427445275",
+    "dest": "./offline-repository/com/github/hypfvieh/dbus-java-core/5.2.0",
+    "dest-filename": "dbus-java-core-5.2.0.jar",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/github/hypfvieh/dbus-java-core/5.2.0/dbus-java-core-5.2.0.pom",
+    "sha512": "f36b2cc09392300347d168423e4d6af9a605fb4849814a96338c121f8ad67b7826bde35f753b71144bb0fcf171d061fc64c718c5f0731c42b505e05741f47a4d",
+    "dest": "./offline-repository/com/github/hypfvieh/dbus-java-core/5.2.0",
+    "dest-filename": "dbus-java-core-5.2.0.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/github/hypfvieh/dbus-java-parent/5.2.0/dbus-java-parent-5.2.0.pom",
+    "sha512": "a7c89a9ac5c62bef0a3e96dad4d2fb36380498c5eb2b49806c8bc99866a75af01933d54b4b56caebbc9d6a2d74c7ca9e8d04dcd3b6e5b82f5ed47924f223fa6f",
+    "dest": "./offline-repository/com/github/hypfvieh/dbus-java-parent/5.2.0",
+    "dest-filename": "dbus-java-parent-5.2.0.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/github/hypfvieh/dbus-java-transport-native-unixsocket/5.2.0/dbus-java-transport-native-unixsocket-5.2.0.jar",
+    "sha512": "65f952e1f9789a1765b5c62d1a144019434ae8d9dd86fb894b1231735a383cd3be4226fa9f7b4c3363277676437a96f1f7264b7ad421ce2d5355e8c66f676f2f",
+    "dest": "./offline-repository/com/github/hypfvieh/dbus-java-transport-native-unixsocket/5.2.0",
+    "dest-filename": "dbus-java-transport-native-unixsocket-5.2.0.jar",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/github/hypfvieh/dbus-java-transport-native-unixsocket/5.2.0/dbus-java-transport-native-unixsocket-5.2.0.pom",
+    "sha512": "e1a7b87c86b7c23aed5a8f5b4c75d3f3694bd050dd7a06c3604e6dbdae1295c1d651b42fa4be9645382a7f1c5f5007693eb35a16d84dd36416d228a8d2b26464",
+    "dest": "./offline-repository/com/github/hypfvieh/dbus-java-transport-native-unixsocket/5.2.0",
+    "dest-filename": "dbus-java-transport-native-unixsocket-5.2.0.pom",
     "only-arches": ["aarch64"]
   },
   {
@@ -397,6 +445,22 @@
     "sha512": "f747d12cb02a63e0a1e1004dff52c35891d677dfaf07edab248b4ef1052f7631c3f535fcca86aa8b0306166337974ad4d0fe18a7a66455ce5517ac9e7e70ba93",
     "dest": "./offline-repository/commons-logging/commons-logging/1.3.5",
     "dest-filename": "commons-logging-1.3.5.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/eu/binjr/portalfx/0.1/portalfx-0.1.jar",
+    "sha512": "ab97bf12077a72b305ce192e60d61ef921735517d8d667988cc67165e0a540927c3b4d7f1e37e0651bcbe06dffe4bb572997bd7659d8ff4ebc39e0a2d5f755a6",
+    "dest": "./offline-repository/eu/binjr/portalfx/0.1",
+    "dest-filename": "portalfx-0.1.jar",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/eu/binjr/portalfx/0.1/portalfx-0.1.pom",
+    "sha512": "6485cb6ef10dfddf83228d8d4c50cd67581e566a967f1142c8148084b54a56c1bd2478dbdbcdb106bffe782ed174744131fb664ec510d3b968a62bc07af7a19f",
+    "dest": "./offline-repository/eu/binjr/portalfx/0.1",
+    "dest-filename": "portalfx-0.1.pom",
     "only-arches": ["aarch64"]
   },
   {
@@ -1345,6 +1409,14 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.13.4/junit-bom-5.13.4.pom",
+    "sha512": "ec795b2f32982c1af8dccef57553aa9d959c13ee829aebd6459ba22b4ef434aeb4184aa89f63ad2f0d8c45d59cd020a15cd976ddb4bf20f1044b492a406e029e",
+    "dest": "./offline-repository/org/junit/junit-bom/5.13.4",
+    "dest-filename": "junit-bom-5.13.4.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.2/junit-bom-5.9.2.pom",
     "sha512": "f7f727af2d3a0718f33f3e1a42eaeb645a1b7cb3401349111a6747aab3ef01b767b4d8cfc1b2c1449019207f2d63dc490a2e2632c60ca564ff85a81be00472f8",
     "dest": "./offline-repository/org/junit/junit-bom/5.9.2",
@@ -1357,6 +1429,14 @@
     "sha512": "a8f5b64af5387c0eab939f6af8c2d3a7dfe9930ccaf0a33db97a307fa2af2607dfecb520527f9579521d6296d7dc0029310ea410df753e6b3ad7a63ac00f12c9",
     "dest": "./offline-repository/org/junit/junit-bom/5.9.3",
     "dest-filename": "junit-bom-5.9.3.pom",
+    "only-arches": ["aarch64"]
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/6.0.2/junit-bom-6.0.2.pom",
+    "sha512": "becc2710a6d5cdf4d96adb0f8b8427d77add4b4fa1c5a40e48ebff6d4c33b4dbe1ce5dab7994a00dd9f45c8e045f2162f445c45dde7beca9fad5dfa672f06407",
+    "dest": "./offline-repository/org/junit/junit-bom/6.0.2",
+    "dest-filename": "junit-bom-6.0.2.pom",
     "only-arches": ["aarch64"]
   },
   {
